@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-nov-2020, 16:06:17
+    Author     : Robot
+*/
+
+/*index and agregar and editar*/
+
+/*BANER HEADER*/
+.header2{
+    background:pink;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 20px;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    position: fixed;
+}
+.CRUD_ADMIN{
+    padding-top: 140px;
+}
+.crud{
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+
+}
+.link{
+    color: skyblue;
+    text-decoration: none;
+    padding: 4px;
+    border: 1px solid;
+    margin: 10px 0px 0px 0px;
+    
+    
+    
+}
+.link:hover {color:pink
+}
+.tabla{
+    margin: 0 auto;
+    border: 1px solid skyblue;
+    border-collapse:collapse;
+}
+.tabla th{
+    margin: 0 auto;
+    border: 1px solid skyblue;
+    padding: 5px;
+    color: white;
+    background: skyblue;
+}
+.tabla td{
+    margin: 0 auto;
+    border: 1px solid skyblue;
+    padding: 7px;
+}
+
+.boton{
+    background: none;
+    color:skyblue;
+    border: 1px solid skyblue;
+    size: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    height:26px;
+    text-align: center;
+}
+.boton:hover {color:pink;
+           border: 1px solid pink;
+}
+.titulo{
+    text-align: center;
+    font-size: 20px;
+    color: skyblue;
+    padding: 10px;
+}
+
+
